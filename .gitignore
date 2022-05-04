@@ -1,0 +1,7 @@
+*.docx
+*.html
+*.pdf
+*.png
+*.RData
+*.Rproject
+.Rproj.user
